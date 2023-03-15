@@ -1,0 +1,62 @@
+
+body {
+    text-align: center;
+    background-color: #778C65;
+}
+
+img {
+    width: 350px;
+    border: solid #DDC9B7 7px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 500;
+  }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 500;
+    
+}
+
+
+button {
+    height: 40px;
+    background-color: #DDC9B7;
+    font-size: 20px;
+    
+}
+
+
+h1 {
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+    
+  }
+
+.story-opening{
+   display: block;
+}
+
+.buttons{
+   display: block;
+}
+
+.button{
+  display: none;
+}
+
+.option-one-screen, .option-two-screen {
+  display: none;
+}
+
+.option-one-end, .option-two-end {
+  display: none;
+}
